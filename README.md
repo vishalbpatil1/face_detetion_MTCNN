@@ -1,6 +1,9 @@
 # face_detetion_MTCNN
 Detect face in image and video using mtcnn
 
+#### install
+[click here ](https://pypi.org/project/mtcnn/https://pypi.org/project/mtcnn/)
+
 ```python
 import cv2
 import tensorflow
